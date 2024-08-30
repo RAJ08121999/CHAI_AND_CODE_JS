@@ -1,8 +1,11 @@
 //Datatypes has only two categories i.e Premitive and NonPremitive or reference type
+
+
 // Premitive Datatypes
 //7 types : String, Number, Boolean, Null, Undefined,Symbol,BigInt;
 
 //JS ek dynamically typed language hai matlab isme variables ka datatype define nahi karna padta hai wo compiler automatically pehchan leta hai
+
 //ex:-const score=100
 //const scoreValue=100.3 
 //100 and 100.3 dono hi number considered hoga qki js me int float do alag chiz nahi hai dono ko eksath number me hi rakha gaya hai
@@ -17,6 +20,9 @@
 //let id=Symbol('123')
 //let anotherId=Symbol('123')
 //console.log(id===anotherId)//false dono me same value hone k bad v Symbol datatype use karne k karan dono ko uniquely identify kiya jaa raha hai
+
+
+//prmitive data types ko ram ke stack memory me save kiya jata hai jabki nonprimitive data types ko ram k heap memory me space milta hai
 
 
 

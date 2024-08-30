@@ -2,7 +2,7 @@ const name="raj"
 const repoCount=50
 //console.log(name + repoCount + "value")//raj50value it is not recommended to use as it is outdated 
 
-// console.log(`Hello my name is ${name} and my repository count is ${repoCount}`)//Hello my name is raj and my repository count is 50...this syntax is most recommended to use as it is more readable
+// console.log(`Hello my name is ${name} and my repository count is ${repoCount}`)  //Hello my name is raj and my repository count is 50...this syntax is most recommended to use as it is more readable
 
 
 //another way to define a string in js
@@ -26,7 +26,7 @@ console.log(anotherStr1)//
 //console.log(anotherStr)//
 
 
-const newString1="   raj   "
+const newString1="   raj   ";
 // console.log(newString1)//   raj
 // console.log(newString1.trim())//raj  trim function removes extra or unwanted special characters like white space amd line terminators(\n)
 

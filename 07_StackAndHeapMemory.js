@@ -4,7 +4,7 @@
 
 
 // jitna v primitive data types hai sara stack memory me space leta hai
-// jitna v non primitive data types hai wo sara hepa memory me space leta hai
+// jitna v non primitive data types hai wo sara heap memory me space leta hai
 
 //jab v koi memory stack k andar define hoti hai to hume uska ek copy milta hai
 // or jab v koi memory heap k andar define hoti hai to hume original value ka reference milta hai
